@@ -1,0 +1,75 @@
+body {
+ font-size: 20px;
+ font-family: 'IM Fell French Canon', serif;
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 1000px;
+ background-image: url("flower.jpg");
+ background-size: cover;
+ background-attachment: fixed;
+ padding: 7px;
+ color: #000000;
+
+
+}
+
+section {
+ clear: both;
+}
+
+h1 {
+ font-size: 40px;
+ font-family: 'Homemade Apple', cursive;
+ color: #f27dcf;
+ text-align: center;
+
+
+}
+
+h2 {
+  font-size: 22px
+  <i class="material-icons">favorite</i>
+
+
+}
+
+a:link {
+    color:  #ff8c1a;
+}
+
+a:visited {
+    color:   # #f27dcf ;
+}
+
+
+a:hover {
+    color:  #000000 ;
+}
+
+
+a:active {
+    color:  #ff8c1a;
+}
+
+img {
+ max-width: 100%;
+}
+
+img.left {
+ float: left;
+ margin-right: 20px;
+ margin-bottom: 20px;
+
+
+}
+
+img.right{
+ float: right;
+ margin-left: 20px;
+ margin-bottom: 20px;
+}
+
+img.center {
+ display: block;
+ margin: 0 auto;
+}
